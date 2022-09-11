@@ -11,7 +11,7 @@ body{
 .left{
 display: flex;
 flex:none;  /*固定配置*/
-width: 100%;
+width: 43%;
 font-size:200%;
 font-weight:900;
 justify-content: center;
@@ -24,7 +24,7 @@ color:white;
 display:flex; /*讓下一層次水平排列*/
 justify-content:flex-end;/*水平對齊*/
 flex:none;  /*固定配置*/
-width: 43%;
+width: 50%;
 }
 
  .item{
