@@ -24,7 +24,7 @@ color:white;
 display:flex; /*讓下一層次水平排列*/
 justify-content:flex-end;/*水平對齊*/
 flex:none;  /*固定配置*/
-width: 50%;
+width: 43%;
 }
 
  .item{
